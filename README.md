@@ -6,5 +6,5 @@ FPGA: ARROW DECA MAX10
 # 开发板  
 ![desktop](https://github.com/TerayTech/fx2_fpga_stream_in/blob/main/desktop.png)  
 # PCB转接模块  
-![PCB1](https://github.com/TerayTech/fx2_fpga_stream_in/blob/main/PCB1.png)  
-![PCB1](https://github.com/TerayTech/fx2_fpga_stream_in/blob/main/PCB2.png)  
+![PCB1](https://github.com/TerayTech/fx2_fpga_stream_in/blob/main/PCB1.jpg)  
+![PCB2](https://github.com/TerayTech/fx2_fpga_stream_in/blob/main/PCB2.jpg)  
